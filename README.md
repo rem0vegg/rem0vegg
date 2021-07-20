@@ -1,7 +1,7 @@
 ### Hi there 👋
-🔭 I’m currently working on How 2 Identify Minecraft Packet
-🌱 I’m currently learning Java & Kotlin
-📫 How to reach me: Discord egg#0053
+- 🔭 I’m currently working on How 2 Identify Minecraft Packet
+- 🌱 I’m currently learning Java & Kotlin
+- 📫 How to reach me: Discord egg#0053
 <!--
 **rem0vegg/rem0vegg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
