@@ -1,9 +1,13 @@
-### Halo smua 👋
+### 👋About Me
 @rem0vegg disini 😃 lu bau eek sumpah
 - 🔭 Saat inih aku sedang tidak mengerjakan projek apah apah
 - 🌱 Aku lagih belajar Java & Kotlin
 - 📫 Kontak Discord sayah : egg#0053
 - 💨 Sayah tertarik dalam Developing Minecraft Server dan Networking serta Ethical Hacking 😭
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rem0vegg&show_icons=true&theme=cobalt)
+
+
 <!--
 **rem0vegg/rem0vegg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
