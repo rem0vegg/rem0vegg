@@ -1,9 +1,9 @@
 ### 👋About Me
-@rem0vegg disini 😃 lu bau eek sumpah
+@rem0vegg here 😃 
 - 🔭 Saat inih aku sedang tidak mengerjakan projek apah apah
-- 🌱 Aku lagih belajar Java & Kotlin
-- 📫 Kontak Discord sayah : egg#0053
-- 💨 Sayah tertarik dalam Developing Minecraft Server dan Networking serta Ethical Hacking 😭
+- 🌱 Im currently learning Java & Kotlin
+- 📫 Reach me! : egg#0053
+- 💨 I have interest on Ethical Hacking,Network Engineering,System Admin
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rem0vegg&show_icons=true&theme=cobalt)
 
