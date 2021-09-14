@@ -1,6 +1,6 @@
 ### 👋About Me
 @rem0vegg here 😃 
-- 🔭 Saat inih aku sedang tidak mengerjakan projek apah apah
+- 🔭 For now i dont have working project
 - 🌱 Im currently learning Java & Kotlin
 - 📫 Reach me! : egg#0053
 - 💨 I have interest on Ethical Hacking,Network Engineering,System Admin
