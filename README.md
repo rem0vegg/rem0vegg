@@ -1,7 +1,5 @@
 ### 👋About Me
-@rem0vegg here 😃 
-- 🔭 For now i dont have working project
-- 🌱 Im currently learning Java & Kotlin
+@rem0vegg here
 - 📫 Reach me! : egg#0053
 - 💨 I have interest on Ethical Hacking,Network Engineering,System Admin
 
