@@ -1,7 +1,6 @@
-### 👋About Me
-@rem0vegg here
+### 👋Hello There!
 - 📫 Reach me! : egg#0053
-- 💨 I have interest on Ethical Hacking,Network Engineering,System Admin
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rem0vegg&show_icons=true&theme=cobalt)
 
