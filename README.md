@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-    <b>Language that i use</b>
+    <b>Language that usually i use (Sort of)</b>
 </p>
 
 
