@@ -1,7 +1,7 @@
 ### 👋Hello There!
 - 📫 Reach me! : egg#0053
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rem0vegg&theme=algolia)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rem0vegg&theme=algolia&disable_animations=true)
 
 
 
