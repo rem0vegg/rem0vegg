@@ -9,7 +9,6 @@
 <p align="center">
    <a href="https://en.wikipedia.org/wiki/Java_(programming_language)">
          <img src=https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white>
-         width=150" height="70">
       </a>
 </p>
 
