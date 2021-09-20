@@ -3,7 +3,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rem0vegg&theme=algolia&disable_animations=true&show_icons=false)
 
-<https://discord.gg/EJar6dCrSK="{https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white}" />
+![image]({https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white})
 
 
 
