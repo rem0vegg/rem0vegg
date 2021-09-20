@@ -3,6 +3,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rem0vegg&show_icons=true&theme=cobalt)
+![](https://github.com/username/github-stats/blob/master/generated/overview.svg)
 
 
 <!--
