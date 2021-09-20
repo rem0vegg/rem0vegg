@@ -2,7 +2,7 @@
     <b>Hello,im rem0vegg</b>
 </p>
 
-<p allign="center">
+<p align="center">
     <b>Language that i use</b>
 </p>
 
