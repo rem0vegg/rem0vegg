@@ -6,7 +6,10 @@
     <b>Language that usually i use (Sort of)</b>
 </p>
 
-![https://en.wikipedia.org/wiki/Java_(programming_language)]({https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white})
+<p align="center">
+  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
+</p>
+
 
 
 
