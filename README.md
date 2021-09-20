@@ -13,6 +13,9 @@
     <a href="https://en.wikipedia.org/wiki/PowerShell">
         <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white">
     </a>
+    <a href="https://en.wikipedia.org/wiki/Kotlin_(programming_language)">
+        <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
+    </a>
 </p>
 
 
